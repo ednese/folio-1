@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38c60c69.chunk.css",
+    "main.js": "/static/js/main.fbf02056.chunk.js",
+    "main.js.map": "/static/js/main.fbf02056.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/js/2.e291ab94.chunk.js": "/static/js/2.e291ab94.chunk.js",
+    "static/js/2.e291ab94.chunk.js.map": "/static/js/2.e291ab94.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.258101cb76dbbccd94d320178b6463ec.js": "/precache-manifest.258101cb76dbbccd94d320178b6463ec.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.38c60c69.chunk.css.map": "/static/css/main.38c60c69.chunk.css.map",
+    "static/js/2.e291ab94.chunk.js.LICENSE.txt": "/static/js/2.e291ab94.chunk.js.LICENSE.txt",
+    "static/media/AdobeXd.png": "/static/media/AdobeXd.43ff36cb.png",
+    "static/media/React.png": "/static/media/React.14c89a41.png",
+    "static/media/Screenshot_tesla.png": "/static/media/Screenshot_tesla.9fd2334e.png",
+    "static/media/discord.png": "/static/media/discord.7d3442e9.png",
+    "static/media/easybank.jpg": "/static/media/easybank.7ad57636.jpg",
+    "static/media/kickapp.png": "/static/media/kickapp.c6587531.png",
+    "static/media/projectoi.png": "/static/media/projectoi.8f7ef6d5.png",
+    "static/media/thomas.jpg": "/static/media/thomas.b505b2e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/2.e291ab94.chunk.js",
+    "static/css/main.38c60c69.chunk.css",
+    "static/js/main.fbf02056.chunk.js"
+  ]
+}
